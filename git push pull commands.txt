@@ -1,0 +1,16 @@
+git push pull commands
+
+git clone ctrl + v code
+cd 
+git init
+git status
+
+(branch?) git config --global user.name "nvivek42"
+git config --global user.email "emailid"
+git config --list
+
+git add .
+git commit -m "First commit"
+
+git push origin main
+git pull
