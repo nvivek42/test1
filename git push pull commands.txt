@@ -1,4 +1,4 @@
-git push pull commands
+git push pull commands // to check pull cmd
 
 git clone ctrl + v code
 cd 
